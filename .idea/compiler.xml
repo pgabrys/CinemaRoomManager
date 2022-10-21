@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-src.main" target="14" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task.main" target="14" />
+      <module name="Cinema_Room_Manager.util.main" target="14" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
